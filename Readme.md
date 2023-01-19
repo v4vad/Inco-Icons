@@ -1,0 +1,1 @@
+These icons are made with strokes to allow them to modified easily to match UI style and easily animated in after effects.
